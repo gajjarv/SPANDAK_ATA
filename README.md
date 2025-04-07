@@ -3,7 +3,7 @@
 
 SPANDAK is a GPU-accelerated, modular pipeline designed to detect **broadband dispersed transient signals** — including **naturally dispersed signals** from FRBs and those with **artificial or negative dispersion** from ETIs. It integrates classic time-domain algorithms with ML-based candidate validation.
 
-![SPANDAK Diagram](images/SPANDAK_diag.png)
+![SPANDAK Diagram](FRBsearching/images/SPANDAK_diag.png)
 
 ---
 
@@ -20,7 +20,7 @@ Install required Python dependencies (TODO: requirements.txt) and ensure HEIMDAL
 The blockdiagram of pipeline is as follows. 
 ----- 
 
-![SPANDAK](images/SPANDAK_diag.png)
+![SPANDAK](FRBsearching/images/SPANDAK_diag.png)
 
 **To get help:**
 
