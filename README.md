@@ -11,7 +11,6 @@ SPANDAK is a GPU-accelerated, modular pipeline designed to detect **broadband di
 
 Clone the repository:
 
-```bash
 git clone https://github.com/gajjarv/SPANDAK_ATA.git
 cd SPANDAK_ATA
 
