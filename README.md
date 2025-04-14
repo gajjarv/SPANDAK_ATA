@@ -1,5 +1,5 @@
 
-# SPANDAK: Searching for Naturally and Artificially Dispersed Transient Signals for Breakthrough Listen for the Allen Telescope Array
+# SPANDAK: Searching for Naturally and Artificially Dispersed Transient Signals for the Allen Telescope Array
 
 SPANDAK is a GPU-accelerated, modular pipeline designed to detect **broadband dispersed transient signals** — including **naturally dispersed signals** from FRBs and those with **artificial or negative dispersion** from ETIs. It integrates classic time-domain algorithms with ML-based candidate validation.
 
